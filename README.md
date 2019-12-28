@@ -1,6 +1,6 @@
 # React-Redux-Projects
 
-Before adding Redux in react project, you must be aware with these are the following terms:
+Whenever adding Redux in a react project, you must be aware with these terms:
 
 1. Action
 2. Reducer
